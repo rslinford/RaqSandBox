@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="jax-rs-jersey-1.12" type="JAX-RS">
+    <properties version="jersey-1.12" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/comresrcgen-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/FastInfoset-1.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jaxb-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/grizzly-servlet-webserver-1.9.45.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jdom-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jersey-client-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jaxb-impl-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jersey-grizzly-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jersey-core-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jersey-multipart-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/localizer-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/mimepull-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jersey-bundle-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/persistence-api-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/stax-api-1.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/wadl-cmdline-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/rome-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/wadl-core-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/mail-1.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dynamic Form Field REST Template/lib/jaxb-xjc-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -3,6 +3,6 @@ package example;/**
  */
 public class HelloWorldClient {
   public static void main(String[] argv) {
-
+      System.out.println("Does nothing so far.");
   }
 }
